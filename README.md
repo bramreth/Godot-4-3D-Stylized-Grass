@@ -1,11 +1,12 @@
+![](thumbnail.png)
+
 # Godot 4 3D Stylized Grass
 
-This project is a party of a tutorial on Youtube explaining how to make stylized 3D Grass in Godot 4 and Blender from the ground up!
+This project is part of a tutorial on Youtube explaining how to make stylized 3D Grass in Godot 4 and Blender from the ground up!
 
 If you just wanted to download the source files rather than following the tutorials step by step, then this is your place!
 
-![](thumbnail.png)
-
+![](in-editor.jpg)
 
 🔗 [Tutorial: Stylized 3D Grass in Godot 4](https://www.youtube.com/@BramwellWilliams )
 
